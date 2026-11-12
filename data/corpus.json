@@ -1,0 +1,110 @@
+[
+  {
+    "id": "INEC-DOC-001",
+    "source_title": "INEC Guidelines on Continuous Voter Registration (CVR)",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-01-10",
+    "text": "Eligible Nigerian citizens who have attained eighteen years of age may register as voters during designated Continuous Voter Registration (CVR) periods. Registration requires physical biometric capture, including fingerprints and facial photographs, at approved INEC registration centers. Online pre-registration portals, when active, allow applicants to submit demographic data, but the registration is only finalized after physical biometric data capture.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-002",
+    "source_title": "INEC Regulations on Permanent Voter Card (PVC) Collection",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-01-15",
+    "text": "Permanent Voter Cards (PVCs) must be collected in person by the registered voter at designated INEC Local Government Area offices or designated Ward collection centers during authorized collection windows. Collection by proxy is strictly prohibited under official electoral regulations. Voters must present their temporary voter card or registration slip for physical verification before the PVC is issued.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-003",
+    "source_title": "INEC Guidelines on Voter Transfer and Card Replacement",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-01-18",
+    "text": "Registered voters who relocate their residence may apply to transfer their voting registration to a new polling unit within their new locality. Applications for transfer or replacement of lost, damaged, or defaced Permanent Voter Cards must be submitted through designated INEC channels during designated administrative windows. No voter is permitted to register more than once.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-004",
+    "source_title": "INEC Polling Unit Operations Manual: Accreditation and Voting",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-01",
+    "text": "On election day, Polling Units follow a standardized schedule where accreditation and voting take place simultaneously. Voters in the queue before the official closing time are allowed to cast their votes. Polling officials verify the voter's Permanent Voter Card and verify their identity using official accreditation devices before issuing ballot papers.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-005",
+    "source_title": "INEC Manual on Electronic Accreditation and BVAS Device",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-05",
+    "text": "The Bimodal Voter Accreditation System (BVAS) is the mandatory electronic device used at every polling unit to accredit voters. The device verifies the voter through fingerprint biometric matching or facial recognition matching against the voter register. A person whose name is not on the register of voters for that specific polling unit cannot be accredited or allowed to vote.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-006",
+    "source_title": "INEC Regulations on Ballot Secrecy and Voting Booth Conduct",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-08",
+    "text": "Voting is strictly by secret ballot. The voter marks their preferred political party or candidate in the privacy of the voting cubicle, folds the ballot paper vertically, and deposits it into the transparent ballot box. The use of photographic devices, smartphones, or recording equipment inside the voting booth is prohibited to safeguard secrecy and prevent vote buying.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-007",
+    "source_title": "INEC Framework on Vote Counting and Result Form Sorting",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-12",
+    "text": "After the last accredited voter has voted, the Presiding Officer closes the poll and sorts, tallies, and counts the ballots openly in the presence of polling agents and accredited observers. The official result form (Form EC8A) is completed, signed by the Presiding Officer and countersigned by polling agents present, and announced aloud at the polling unit.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-008",
+    "source_title": "INEC Policy on Electronic Transmission of Polling Unit Results (IReV)",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-14",
+    "text": "The Presiding Officer transmits an electronic snapshot of the signed polling unit result sheet (Form EC8A) directly from the BVAS device to the INEC Result Viewing (IReV) portal for public viewing. Electronic transmission provides public transparency; official physical collation proceeds sequentially through Ward, Local Government, and State collation centers.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-009",
+    "source_title": "INEC Standard Operating Procedures for Result Collation and Declarations",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-16",
+    "text": "Official election results are declared exclusively by designated Returning Officers at their respective collation levels. No media house, social media account, civil society group, or political party has the authority to declare official election winners or publish final tally certificates ahead of the Returning Officer's statutory declaration.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-010",
+    "source_title": "INEC Official Communication Channels and Election Timetable Releases",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-18",
+    "text": "Official notices, election timetables, approved candidate lists, and schedule amendments are published through the Commission's official website (inecnigeria.org), the Federal Government Gazette, press statements signed by the National Commissioner for Information and Voter Education, and officially verified Commission social media accounts.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-011",
+    "source_title": "INEC Electoral Conduct Code and Offences at Polling Stations",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-20",
+    "text": "Electoral laws strictly prohibit campaigning, distributing promotional materials, bearing offensive weapons, or attempting to induce voters with money or gifts within a 300-meter perimeter of any polling station on election day. Impersonation of voters, multiple voting, and disruption of electoral officials carry criminal penalties under applicable electoral legislation.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  },
+  {
+    "id": "INEC-DOC-012",
+    "source_title": "INEC Guidelines for Observer Accreditation and Election Petitions",
+    "source_url": "https://inecnigeria.org",
+    "published_date": "2023-02-22",
+    "text": "Domestic and international observers must be formally accredited by the Commission and abide by the observer code of conduct. Any legal challenge to the conduct or outcome of an election must be submitted through an established Election Petitions Tribunal within statutory timelines, rather than through extra-judicial declarations or unauthorized protests.",
+    "placeholder": true,
+    "note": "Replace with real excerpt from official INEC/Electoral Act source before production"
+  }
+]
